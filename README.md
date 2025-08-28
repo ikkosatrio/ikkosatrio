@@ -35,15 +35,8 @@ Cloud & DevOps: Docker, Nginx, Ubuntu Server, GitHub Actions
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ikkosatrio&theme=onedark&row=1&column=6" alt="Trophies"/>
-</p>
-
----
-
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://id.linkedin.com/in/ikko-satrio-ydr)  
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:ikkosatrio0@gmail.com)  
 
 ---
