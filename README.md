@@ -63,6 +63,10 @@ Data Analysis | Business Intelligence (BI) | ERP Systems | Performance Optimizat
 
 ---
 
+<a href="https://app.daily.dev/ikkosatrio"><img src="https://api.daily.dev/devcards/v2/JaJ2qwaimwiRkB2257fdw.png?type=wide&r=2sj" width="652" alt="Ikko Satrio's Dev Card"/></a>
+
+---
+
 ## 📊 GitHub Stats  
 
 <p align="center">
